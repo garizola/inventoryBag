@@ -1,0 +1,13 @@
+[
+    {"id": 0, "name": "jerky", "icon": "A", "desc": "dehydrated, meaty", "weight": 0.5 }, 
+    {"id": 1, "name": "book", "icon": "A", "desc": "scroll of satire", "weight": 1 }, 
+    {"id": 2, "name": "band-aid", "icon": "A", "desc": "healing potion", "weight": 3.5 }, 
+    {"id": 3, "name": "stamp", "icon": "A", "desc": "cool thing", "weight": 0.5 }, 
+    {"id": 4, "name": "sandwich", "icon": "A", "desc": "layers of goodness", "weight": 2 }
+
+
+
+
+
+
+]
